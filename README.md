@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Shaarukesh G V 👋
 
-<!--
-**shaarukesh44/shaarukesh44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science | Machine Learning | Python | SQL | MLOps
 
-Here are some ideas to get you started:
+I'm a Computer Science student focused on building practical
+Data Science, Machine Learning and AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+• Machine Learning & NLP projects
+• MLOps and deployment
+• Backend development with Python/Java
+
+🛠️ Tech Stack
+Python • SQL • Pandas • NumPy • Scikit-learn
+TensorFlow • PyTorch • NLP • MySQL
+Docker • MLflow • Airflow • Git • GitHub
+
+📌 Featured Projects
+• Retail Customer Segmentation
+• NLP Projects
+• ML Projects
+• Spring Boot Student Management
+• AI Resume Matcher
+• Enterprise Sentiment Intelligence Platform
+
+📫 Connect with me
+GitHub | LinkedIn | Portfolio
